@@ -35,9 +35,7 @@ export default function Home() {
             </h2>
             <p className="mt-6 text-center text-lg leading-6 text-gray-600 dark:text-gray-200">
               Ready-to-use, simply copy and paste into your next project. All
-              snippets crafted with Tailwind CSS and{' '}
-              <span className="cursor-wait opacity-70">Vanilla CSS</span> for
-              easy integration.
+              snippets crafted with Tailwind CSS for easy integration.
             </p>
             <div className="mt-10 flex gap-4">
               <Button variant="secondary" onClick={resetBg}>
